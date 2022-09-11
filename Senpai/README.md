@@ -1,4 +1,4 @@
-# Mai Frontend
+# Senpai - Mai Frontend
 
 ## Directory Structure
 
